@@ -1,0 +1,14 @@
+[
+  {
+    "package": "HydeNet",
+    "oncran": true
+  },
+  {
+    "package": "pixiedust",
+    "oncran": true
+  },
+  {
+    "package": "redcapAPI",
+    "oncran": true
+  }
+]
