@@ -13,8 +13,3 @@
 	url = https://github.com/nutterb/pixiedust
 	shallow = true
 	registered = true
-[submodule "redcapAPI"]
-	path = redcapAPI
-	url = https://github.com/nutterb/redcapapi
-	shallow = true
-	registered = true
