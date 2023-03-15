@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "HydeNet"]
-	path = HydeNet
-	url = https://github.com/nutterb/hydenet
-	shallow = true
-	registered = true
 [submodule "pixiedust"]
 	path = pixiedust
 	url = https://github.com/nutterb/pixiedust
+	shallow = true
+	registered = true
+[submodule "HydeNet"]
+	path = HydeNet
+	url = https://github.com/nutterb/hydenet
 	shallow = true
 	registered = true

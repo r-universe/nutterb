@@ -1,10 +1,10 @@
 [
   {
-    "package": "HydeNet",
+    "package": "pixiedust",
     "oncran": true
   },
   {
-    "package": "pixiedust",
+    "package": "HydeNet",
     "oncran": true
   }
 ]
