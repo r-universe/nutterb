@@ -8,6 +8,11 @@
 	url = https://github.com/nutterb/hydenet
 	shallow = true
 	registered = true
+[submodule "labelVector"]
+	path = labelVector
+	url = https://github.com/cran/labelVector
+	shallow = true
+	registered = true
 [submodule "lazyWeave"]
 	path = lazyWeave
 	url = https://github.com/nutterb/lazyweave
