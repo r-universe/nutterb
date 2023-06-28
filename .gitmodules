@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "HydeNet"]
 	path = HydeNet
 	url = https://github.com/nutterb/hydenet
-	shallow = true
-	registered = true
 [submodule "labelVector"]
 	path = labelVector
 	url = https://github.com/cran/labelVector
-	shallow = true
-	registered = true
 [submodule "lazyWeave"]
 	path = lazyWeave
 	url = https://github.com/nutterb/lazyweave
-	shallow = true
-	registered = true
 [submodule "pixiedust"]
 	path = pixiedust
 	url = https://github.com/nutterb/pixiedust
-	shallow = true
-	registered = true
