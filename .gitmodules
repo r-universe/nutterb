@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "HydeNet"]
-	path = HydeNet
-	url = https://github.com/nutterb/hydenet
 [submodule "labelVector"]
 	path = labelVector
 	url = https://github.com/cran/labelVector
